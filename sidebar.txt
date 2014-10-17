@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sep:home|Door43 (sep)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sep|d43-sep repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sep/archive/master.zip|d43-sep.zip]]
+
+**Recent Changes**
+{{changes>ns = sep}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sep|Ethnologue data]]
+
